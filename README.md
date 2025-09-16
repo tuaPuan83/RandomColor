@@ -9,3 +9,18 @@ Instant Generation: Get a fresh palette of eight colors with a single click.
 Clear Display: Each color box displays its code, making it easy to copy and use.
 
 Responsive Design: The layout is optimized for both desktop and mobile devices.
+
+How to Use 🚀
+Clone the repository:
+
+Bash
+
+git clone https://github.com/your-username/ColorPick.git
+Navigate to the project directory:
+
+Bash
+
+cd ColorPick
+Open the index.html file in your web browser.
+
+Alternatively, you can visit the live demo here.
