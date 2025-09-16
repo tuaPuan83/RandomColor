@@ -23,4 +23,4 @@ Bash
 cd ColorPick
 Open the index.html file in your web browser.
 
-Alternatively, you can visit the live demo here.
+Alternatively, you can visit the live demo here. https://tuapuan83.github.io/RandomColor/
