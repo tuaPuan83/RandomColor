@@ -15,7 +15,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/ColorPick.git
+git clone https://github.com/tuaPuan83/RandomColor.git
 Navigate to the project directory:
 
 Bash
