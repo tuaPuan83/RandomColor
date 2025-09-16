@@ -24,3 +24,10 @@ cd ColorPick
 Open the index.html file in your web browser.
 
 Alternatively, you can visit the live demo here. https://tuapuan83.github.io/RandomColor/
+
+Technologies Used 💻
+HTML: Provides the core structure and content.
+
+CSS: Styles the application with a clean, modern aesthetic using CSS Flexbox for layout. The @import rule for fonts is a good practice!
+
+JavaScript: Manages all the functionality, including generating random colors, updating the UI, and handling button clicks.
